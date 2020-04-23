@@ -1,0 +1,28 @@
+.primary {
+  color: cornsilk;
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: bold;
+  background-color: black;
+}
+
+.secondary {
+  text-align: center;
+  color: purple;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: black;
+  
+  
+}
+
+.tertiary {
+  text-align: center;
+  color: greenyellow;
+  
+}
+
+body {
+  background-color: black;
+  background-image: url(./background.jpeg) ;
+}

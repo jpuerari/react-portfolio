@@ -5,7 +5,7 @@ const name = "Joseph D. Puerari";
 function Portfolio() {
   return (
     <header className="header">
-    <h1> Welcome to {name}'s Coding Portfolio!</h1>
+    <h1 className='primary'> Welcome to {name}'s Coding Portfolio!</h1>
     </header>
   );
 }
